@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 84ca6e901ca9f7d47adf80ca68b16e44
+  - enabled: 1
+    path: Assets/Scenes/SoundTest.unity
+    guid: b1f7fe44999c22f4684a4be7d22f0351
+  - enabled: 1
+    path: Assets/Scenes/CreateMap.unity
+    guid: fa809db61544cd0489c1e41cbb353e85
   m_configObjects: {}
