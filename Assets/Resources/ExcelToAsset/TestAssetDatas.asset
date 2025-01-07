@@ -32,7 +32,7 @@ MonoBehaviour:
     _defense: 0
     _speed: 0
   - _key: 10004
-    _name: forth
+    _name: fourth
     _hp: 0
     _attack: 0
     _defense: 0
